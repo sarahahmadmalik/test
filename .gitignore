@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Build artifacts
+dist/
+build/
+*.html
+
+# Cache and logs
+.cache/
+.log/
+
+# Environment variables
+.env
